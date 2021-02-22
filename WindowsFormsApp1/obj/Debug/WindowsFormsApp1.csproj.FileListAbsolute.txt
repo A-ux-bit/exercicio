@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Aluno\Desktop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Aluno\Desktop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Aluno\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Formlogin.resources
+C:\Users\Aluno\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormSplashScreen.resources
+C:\Users\Aluno\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Aluno\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Aluno\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Aluno\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormPrincipal.resources
+C:\Users\Aluno\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Formusuario.resources
+C:\Users\Aluno\Desktop\WindowsFormsApp1\bin\Debug\Dblanchonete.mdf
+C:\Users\Aluno\Desktop\WindowsFormsApp1\bin\Debug\Dblanchonete_log.ldf
