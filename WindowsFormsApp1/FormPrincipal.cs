@@ -33,17 +33,19 @@ namespace WindowsFormsApp1
         {
             try
             {
-                String str = "Data Source = (LocalDB)\\MSSQLLocalDB; AttachDbFilename = C:\\Users\\Aluno\\Desktop\WindowsFormsApp1\Dblanchonete.mdf; Integrated Security = True";
+                String str = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Programas\\SisLanchonete2\\DbLanchonete.mdf;Integrated Security=True";
                 String query = "SELECT * FROM Usuario";
                 SqlConnection con = new SqlConnection(str);
                 SqlCommand cmd = new SqlCommand(query, con);
-                con.open();
+                con.Open();
                 DataSet ds = new DataSet();
-                MessageBox.Show("Conectado ao Banco com sucesso!", "sucesso MessageBoxButtons.OK, MessageBoxIcon.Information");
-                con.close();
+                MessageBox.Show("Conectado ao Banco de Dados!", "Sucesso", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                con.Close();
+            }
+            catch (Exception er)
+            {
+                MessageBox.Show(er.Message, "Erro de Acesso", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
-        catch (Exception er)
-
     }
 }
